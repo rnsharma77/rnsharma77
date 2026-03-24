@@ -74,11 +74,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rnsharma77&theme=radical&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
@@ -90,8 +85,3 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=rnsharma77&icon=5&color=6"/>
-</p>
